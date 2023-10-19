@@ -5,7 +5,6 @@
 
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:victorbreia@gmail.com)
 
-<img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
 
 - ⚡ Hard Skills em aperfeiçoamento: **_Python,  Pandas, MatplotLib, Seaborn, Selenium, SQL, MySQL, Git e GitHub_**
 - 📚 Graduando: **_Engenharia de Software_**
