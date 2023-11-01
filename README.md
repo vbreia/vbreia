@@ -1,9 +1,7 @@
 # Victor Breia
 ### ~ Ciência de dados :dart: | Python :snake:
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/victor-breia/)
-
-[![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:victorbreia@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/victor-breia/) [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:victorbreia@gmail.com)
 
 
 - ⚡ Hard Skills em aperfeiçoamento: **_Python,  Pandas, MatplotLib, Seaborn, Selenium, SQL, MySQL, Git e GitHub_**
