@@ -4,8 +4,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/victor-breia/) [![Gmail badge](https://img.shields.io/badge/outlook-blue?logo=microsoftoutlook&style=for-the-badge&logoColor=white)](mailto:victordaschagas@outlook.com) [![Instagram badge](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/victorcbreia/) [![Youtube badge](https://img.shields.io/badge/youtube-red?logo=youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/@VictorBreia)
 
 - 📚 Graduando: **_Engenharia de Software_**
-- ⚡ Hard Skills em aperfeiçoamento: **_Python,  Pandas, MatplotLib, Seaborn, Selenium, SQL, MySQL, Git e GitHub_**
-- 📑 Mapa de próximos aprendizados: **_Apache Spark, ETL, Docker, SCRUM e Cloud_**
+- ⚡ Hard Skills em aperfeiçoamento: **_Python,  Pandas, MatplotLib, Seaborn,  SQL, MySQL, Git e GitHub_**
+- 📑 Mapa de próximos aprendizados: **_Apache Spark, ETL, Selenium, Docker, SCRUM e Cloud_**
 
 
 ### Main Skills:
