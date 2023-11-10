@@ -16,11 +16,8 @@
 <code><img title="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"/></code>
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
 <code><img title="MYSQL" width="26px" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png"/></code>
-<code><img title="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png"/></code>
 <code><img title="Apache Spark" width="26px" src="https://i.pinimg.com/originals/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e.jpg"/></code>
-<code><img title="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/></code>
-<code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
-<code><img title="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/></code>
+
 
 <br>
 
