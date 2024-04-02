@@ -4,8 +4,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/victor-breia/) [![Gmail badge](https://img.shields.io/badge/outlook-blue?logo=microsoftoutlook&style=for-the-badge&logoColor=white)](mailto:victordaschagas@outlook.com) [![Instagram badge](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/victorcbreia/) [![Youtube badge](https://img.shields.io/badge/youtube-red?logo=youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/@VictorBreia)  
 
 - 📚 Graduando: **_Engenharia de Software_**
-- ⚡ Hard Skills em aperfeiçoamento: **_Python, Pandas, MatplotLib, Seaborn, PowerBI, ETL, ELT, SQL, Linux shell, Git e GitHub_**
-- 📑 Mapa de próximos aprendizados: **_Apache Spark, Selenium, Docker, SCRUM e Cloud_**  
+- ⚡ Hard Skills em aperfeiçoamento: **_Python, Pandas, MatplotLib, Seaborn, PowerBI, ETL, SQL, Linux shell, Docker, Git e GitHub_**
+- 📑 Mapa de próximos aprendizados: **_Apache Spark, Apache Airflow, Selenium, SCRUM e Cloud_**  
 
 <br>
 
@@ -17,7 +17,7 @@
 <code><img title="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"/></code>
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
 <code><img title="MYSQL" width="26px" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png"/></code>
-<code><img title="Power BI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png"/></code> <code><img title="Apache Spark" width="26px" src="https://i.pinimg.com/originals/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e.jpg"/></code>  
+<code><img title="Postgres" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-3521647-2945091.png"/></code> <code><img title="Docker" width="26px" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png"/></code>  <code><img title="Apache Spark" width="26px" src="https://i.pinimg.com/originals/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e.jpg"/></code>   <code><img title="Ubuntu" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"/></code>  
   
 <br>
 
