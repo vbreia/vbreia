@@ -18,7 +18,11 @@
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
 <code><img title="Poetry" width="20px" src="https://python-poetry.org/images/logo-origami.svg"/></code>
 <code><img title="MYSQL" width="26px" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png"/></code>
-<code><img title="Postgres" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-3521647-2945091.png"/></code> <code><img title="Docker" width="26px" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png"/></code>  <code><img title="Apache Spark" width="26px" src="https://i.pinimg.com/originals/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e.jpg"/></code>   <code><img title="Ubuntu" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"/></code>  
+<code><img title="Postgres" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-3521647-2945091.png"/></code>
+<code><img title="Docker" width="26px" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png"/></code>
+<code><img title="Apache Spark" width="26px" src="https://i.pinimg.com/originals/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e.jpg"/></code>
+<code><img title="Apache Airfow" width="26px" src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png"/></code>
+<code><img title="Ubuntu" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"/></code>  
   
 <br>
 
