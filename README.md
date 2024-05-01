@@ -4,8 +4,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/victor-breia/) [![Gmail badge](https://img.shields.io/badge/outlook-blue?logo=microsoftoutlook&style=for-the-badge&logoColor=white)](mailto:victordaschagas@outlook.com) [![Instagram badge](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/victorcbreia/) [![Youtube badge](https://img.shields.io/badge/youtube-red?logo=youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/@VictorBreia)  
 
 - 📚 Graduando: **_Engenharia de Software_**
-- ⚡ Hard Skills em aperfeiçoamento: **_Python, Pandas, MatplotLib, Seaborn, PowerBI, ETL, SQL, Linux shell, Docker, Poetry, Git e GitHub_**
-- 📑 Mapa de próximos aprendizados: **_Apache Spark, Apache Airflow, Selenium, SCRUM e Cloud_**  
+- ⚡ Hard Skills: **_Python, Pandas, MatplotLib, Seaborn, PowerBI, ETL, SQL, Linux shell, Docker, Poetry, Git e GitHub_**
+- 📑 Skills em aperfeiçoamento: **_Apache Spark, Apache Airflow, Selenium, SCRUM e Cloud_**  
 
 <br>
 
@@ -23,9 +23,13 @@
 <code><img title="Apache Spark" width="26px" src="https://i.pinimg.com/originals/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e.jpg"/></code>
 <code><img title="Apache Airfow" width="26px" src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png"/></code>
 <code><img title="Ubuntu" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"/></code>  
-  
-<br>
+ <br><br> 
 
+## Últimos Repositórios:
+
+
+[![Static Badge](https://img.shields.io/badge/PySpark-Learning_PySpark-orange?logo=apachespark&logoColor=orange)](https://github.com/vbreia/pyspark)      
+[![Static Badge](https://img.shields.io/badge/Jupyter-Learning_Pandas-orange?logo=jupyter&logoColor=orange)](https://github.com/vbreia/proj-smook)   
 
 ## Repositórios relevantes:
 
