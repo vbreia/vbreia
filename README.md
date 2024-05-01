@@ -16,7 +16,6 @@
 <code><img title="MatplotLib" width="26px" src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg"/></code>
 <code><img title="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"/></code>
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
-<code><img title="Poetry" width="20px" src="https://python-poetry.org/images/logo-origami.svg"/></code>
 <code><img title="MYSQL" width="26px" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png"/></code>
 <code><img title="Postgres" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-3521647-2945091.png"/></code>
 <code><img title="Docker" width="26px" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png"/></code>
