@@ -33,8 +33,8 @@
 
 ### Repositórios relevantes:
 
-[![Static Badge](https://img.shields.io/badge/SQL-Forma%C3%A7%C3%A3o_Database_Experience-cyan?logo=mysql&logoColor=cyan)](https://github.com/vbreia/Bootcamp-DATABASE-EXPERIENCE-MYSQL)   
-[![Static Badge](https://img.shields.io/badge/Python-Exerc%C3%ADcios_e_Estudos-green?logo=python&logoColor=green)](https://github.com/vbreia/Learning_Python)   
+[![Static Badge](https://img.shields.io/badge/Python-Exerc%C3%ADcios_e_Estudos-green?logo=python&logoColor=green)](https://github.com/vbreia/Learning_Python)  
+[![Static Badge](https://img.shields.io/badge/SQL-Forma%C3%A7%C3%A3o_Database_Experience-cyan?logo=mysql&logoColor=cyan)](https://github.com/vbreia/Bootcamp-DATABASE-EXPERIENCE-MYSQL)    
 [![Static Badge](https://img.shields.io/badge/DS%20Project-An%C3%A1lise_Estat%C3%ADstica_Fumantes-orange?logo=jupyter&logoColor=orange)](https://github.com/vbreia/proj-smook)      
 [![Static Badge](https://img.shields.io/badge/DS%20Project-An%C3%A1lise_Exploratória_Dados_do_COVID19-pink?logo=jupyter&logoColor=pink)](https://github.com/vbreia/proj_Prever_evolucao_covid19_no_Brasil/tree/main)      
 <br>
