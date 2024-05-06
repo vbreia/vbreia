@@ -1,30 +1,30 @@
-# Victor Breia
-### ~ Engenharia de Dados :technologist: | Python :snake:
-
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/victor-breia/) [![Gmail badge](https://img.shields.io/badge/outlook-blue?logo=microsoftoutlook&style=for-the-badge&logoColor=white)](mailto:victordaschagas@outlook.com) [![Instagram badge](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/victorcbreia/) [![Youtube badge](https://img.shields.io/badge/youtube-red?logo=youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/@VictorBreia)  
-
-- 📚 Graduando: **_Engenharia de Software_**
-- ⚡ Hard Skills: **_Python, Pandas, MatplotLib, Seaborn, ETL, SQL, Linux shell, Docker, Git e GitHub_**
-- 📑 Skills em aperfeiçoamento: **_Apache Spark, Apache Airflow, Selenium, SCRUM e Cloud_**  
-
-<br>
-
-### Main Skills:
-
-<code><img title="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></code>
-<code><img title="Pandas" width="26px" src="https://miro.medium.com/v2/resize:fit:915/0*RWkQ0Fziw792xa0S"/></code>
-<code><img title="MatplotLib" width="26px" src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg"/></code>
-<code><img title="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"/></code>
-<code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
-<code><img title="MYSQL" width="26px" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png"/></code>
-<code><img title="Postgres" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-3521647-2945091.png"/></code>
-<code><img title="Docker" width="26px" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png"/></code>
-<code><img title="Apache Spark" width="26px" src="https://i.pinimg.com/originals/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e.jpg"/></code>
-<code><img title="Apache Airfow" width="26px" src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png"/></code>
-<code><img title="Ubuntu" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"/></code>  
- <br><br> 
+<img width=100% src="banner.png"/>
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vbreia&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbreia&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+</div>
+
+<div align="center">  
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-purple?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/victor-breia/) [![Gmail badge](https://img.shields.io/badge/outlook-purple?logo=microsoftoutlook&style=for-the-badge&logoColor=white)](mailto:victordaschagas@outlook.com) [![Instagram badge](https://img.shields.io/badge/instagram-purple?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/victorcbreia/) [![Youtube badge](https://img.shields.io/badge/youtube-purple?logo=youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/@VictorBreia)  
+</div>
+
+<img width=100% src="bar.png"/>
+
+## Sobre Mim
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Victor Breia, Estou fazendo minha graduação em Engenharia de Software e sou Engenheiro de Dados.
+- <img src="School.png" width="25"> **UNESA** - **Bacharel em Engenharia de Software** | 2023 - Até o momento|
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego como ***Engenheiro de Dados***.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas stacks principais são: ***Python, Pandas, MatplotLib, Seaborn, ETL, SQL, Spark, Airflow, Linux shell, Docker e Git***  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Quer falar sobre tecnologia, ou assuntos em comum? Envie uma mensagem!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Veja o meu [portfolio](https://github.com/vbreia)!
+
+
+
+<div align="center">  
+ 
 ### Últimos Repositórios:
 
 [![Static Badge](https://img.shields.io/badge/PySpark-PySpark_Learning-orange?logo=apachespark&logoColor=orange)](https://github.com/vbreia/pyspark)      
@@ -39,7 +39,6 @@
 [![Static Badge](https://img.shields.io/badge/DS%20Project-An%C3%A1lise_Exploratória_Dados_do_COVID19-pink?logo=jupyter&logoColor=pink)](https://github.com/vbreia/proj_Prever_evolucao_covid19_no_Brasil/tree/main)      
 <br>
 
-## Em constante evolução!
-
-<img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
+</div>
+<img width=100% src="bar.png"/>
 
