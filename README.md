@@ -13,7 +13,8 @@
 
 <img width=100% src="bar.png"/>
 
-# <h1 align="center"> <img width="35px" height="35px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="50px"> Hello World! </h1>
+<h1 align="center"> <img width="35px" height="35px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zMnJ0YXlpcmhnbXQ2Y3lyOXNtcnRpMndhOHY0dDg0NWNjZWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcfEAZhlZXCZrbi/giphy.gif" width="50px"> Hello World! </h1>
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Victor Breia, Estou fazendo minha graduação em Engenharia de Software e sou Engenheiro de Dados.
 - <img src="School.png" width="25"> **UNESA** - **Bacharel em Engenharia de Software** | 2023 - Até o momento
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego como ***Engenheiro de Dados***.
@@ -22,7 +23,6 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Veja o meu [portfolio](https://github.com/vbreia)!
 
 
-<img width=100% src="bar.png"/>
 
 <div align="center">  
  
@@ -30,6 +30,7 @@
 
 [![Static Badge](https://img.shields.io/badge/PySpark-PySpark_Learning-orange?logo=apachespark&logoColor=orange)](https://github.com/vbreia/pyspark)      
 [![Static Badge](https://img.shields.io/badge/Jupyter-Pandas_Practicing-orange?logo=jupyter&logoColor=orange)](https://github.com/vbreia/pandas-learning)   
+
 
 
 ## Repositórios relevantes:
