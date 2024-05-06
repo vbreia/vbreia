@@ -26,13 +26,13 @@
 
 <div align="center">  
  
-### Últimos Repositórios:
+## Últimos Repositórios:
 
 [![Static Badge](https://img.shields.io/badge/PySpark-PySpark_Learning-orange?logo=apachespark&logoColor=orange)](https://github.com/vbreia/pyspark)      
 [![Static Badge](https://img.shields.io/badge/Jupyter-Pandas_Practicing-orange?logo=jupyter&logoColor=orange)](https://github.com/vbreia/pandas-learning)   
 
 
-### Repositórios relevantes:
+## Repositórios relevantes:
 
 [![Static Badge](https://img.shields.io/badge/Python-Exerc%C3%ADcios_e_Estudos-green?logo=python&logoColor=green)](https://github.com/vbreia/Learning_Python)  
 [![Static Badge](https://img.shields.io/badge/SQL-Forma%C3%A7%C3%A3o_Database_Experience-cyan?logo=mysql&logoColor=cyan)](https://github.com/vbreia/Bootcamp-DATABASE-EXPERIENCE-MYSQL)    
