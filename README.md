@@ -20,7 +20,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego como ***Engenheiro de Dados***.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas stacks principais são: ***Python, Pandas, MatplotLib, Seaborn, ETL, SQL, Spark, Airflow, Linux shell, Docker e Git***  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Quer falar sobre tecnologia, ou assuntos em comum? Envie uma mensagem!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Veja o meu [portfolio](https://github.com/vbreia)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Veja o meu [***PORTFOLIO***](https://vbreia.github.io/portfolio/)!
 
 
 
